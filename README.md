@@ -42,4 +42,8 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+
+
 
