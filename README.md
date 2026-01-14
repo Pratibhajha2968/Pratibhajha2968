@@ -30,6 +30,10 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.gif" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.gif" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.gif" width="40"/>
+
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.gif" width="40" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.gif" width="40" />
+
 </p>
 
 
@@ -38,6 +42,4 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.gif" width="40" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.gif" width="40" />
 
