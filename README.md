@@ -3,7 +3,7 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
 
 
 
-**Pratibhajha2968/Pratibhajha2968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Pratibhajha2968/Pratibhajha2968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--Here are some ideas to get you started:-->
 
@@ -18,12 +18,11 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 ## 🚀 Languages and Tools
-
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.gif" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spring.gif" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.gif" width="40"/>
@@ -34,7 +33,7 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
 </p>
 
 
-
-
-
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
