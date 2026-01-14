@@ -40,10 +40,7 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 
 
 
