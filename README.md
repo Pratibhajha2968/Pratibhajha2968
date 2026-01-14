@@ -2,7 +2,7 @@
 I'm a passionate Full Stack Developer (React & Spring Boot) currently working on real-world projects and continuously learning modern web technologies.
 
 
-<!--
+
 **Pratibhajha2968/Pratibhajha2968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,22 +17,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...mailmeatpratibhapriyajha@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## 🚀 Languages and Tools## 🚀 Languages and Tools
+## 🚀 Languages and Tools
+
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.gif" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spring.gif" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.gif" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.gif" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.gif" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.gif" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.gif" width="40"/>
 </p>
 
 
 
 
--->
+
+
