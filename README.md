@@ -5,18 +5,18 @@ I'm a passionate Full Stack Developer (React & Spring Boot) currently working on
 
 **Pratibhajha2968/Pratibhajha2968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...🔭 I’m currently working on a Full Stack Job Portal application using React, Spring Boot, and MySQL.
 
 - 🌱 I’m currently learning ...🌱 Currently learning: Spring Boot, Spring Security (JWT), and React best practices
 
-- 👯 I’m looking to collaborate on ...
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...-->
 - 📫 How to reach me: ...mailmeatpratibhapriyajha@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--- 😄 Pronouns: ...
+- ⚡ Fun fact: ...-->
 ## 🚀 Languages and Tools
 
 
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.gif" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spring.gif" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.gif" width="40"/>
